@@ -28,7 +28,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage": "https://song298.github.io/nomflix",
+  "homepage": "https://fervent-swartz-b11b83.netlify.app",
   "eslintConfig": {
     "extends": [
       "react-app",
